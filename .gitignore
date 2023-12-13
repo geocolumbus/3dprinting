@@ -3,6 +3,7 @@
 *.gcode
 *.fff
 *.icloud
+*.DS_Store
 AutoSave_*
 Kilgour\ Bldg
 
